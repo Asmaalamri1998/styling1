@@ -1,0 +1,36 @@
+.div1{
+    background-color: black;
+    
+}
+h2{
+ font-size: 40px;
+ display: inline-block;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.colors{
+    color: aqua;
+
+}
+.colors2{ 
+    color: white;
+}
+.div2{
+    background-color: blueviolet;
+    text-align: center;
+}
+h3{
+font-size: 30px;
+color: aliceblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div3{
+    background-color: rgb(157, 177, 247);
+    text-align: right;
+}
+
+p{ 
+    font-size: 30px;
+    color: rgb(14, 1, 49);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
